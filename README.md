@@ -40,7 +40,7 @@ psicobot_sentimentos/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/psicobot_sentimentos.git
+git clone https://github.com/felipe-migui2308/psicobot_sentimentos.git
 cd psicobot_sentimentos
 ```
 
